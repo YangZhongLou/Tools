@@ -1,5 +1,5 @@
 """
-	Create atlas from images, using PIL(python image libray).
+	Create atlas from images, using PIL(python image library).
 	Idea taken from http://blackpawn.com/texts/lightmaps/
 """
 
